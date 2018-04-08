@@ -1,5 +1,5 @@
 {
-  "name": "react-webpack-babel",
+  "name": "react-app",
   "version": "0.0.4",
   "description": "React Webpack Babel Starter Kit",
   "main": "''",
@@ -11,13 +11,7 @@
     "dev": " webpack-dashboard -- webpack-dev-server",
     "test": "export NODE_ENV=test && jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ReactJSResources/react-webpack-babel"
-  },
-  "author": "ReactJSResources",
   "license": "MIT",
-  "homepage": "https://github.com/ReactJSResources/react-webpack-babel#readme",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "normalize.css": "^7.0.0",
